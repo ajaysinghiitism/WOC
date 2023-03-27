@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "jquery": "^3.6.4"
+  },
+  "name": "cyber-labs",
+  "version": "1.0.0",
+  "main": "bg.js",
+  "devDependencies": {
+    "@types/chrome": "0.0.176",
+    "bulma": "0.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

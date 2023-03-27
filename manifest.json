@@ -1,0 +1,19 @@
+{
+    "name": "To-Do List",
+    "description":"Complete your tasks on time. Never be late again.",
+    "version": "0.01",
+    "action":{
+        "default_title":"ToDoList.HTML",
+        "default_popup": "index.html"
+    },
+    "manifest_version": 3,
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+
+    },
+    "permissions": [
+        "storage"
+    ]
+
+
+}
